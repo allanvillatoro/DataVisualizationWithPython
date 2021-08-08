@@ -1,2 +1,2 @@
-# datavisualizationwithpython
-IBM Data Visualization with Python
+# Data Visualization with Python
+IBM Data Visualization with Python Labs
